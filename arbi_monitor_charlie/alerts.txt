@@ -1,0 +1,6 @@
+[ALERT] 2025-08-19 13:19:20 UTC
+Пара: ELP-USDT
+DexScreener: 0.003567 USD
+KuCoin: 0.003701 USDT
+Разница: 3.76%
+Направление: DEX дешевле → купить на DEX, продать на KuCoin
